@@ -10,7 +10,7 @@
 
 ## __Apresentação__
 
-Muito prazer, meu nome é Mário Miguel, e estou em minha jornada como aspirante a Desenvolvedor Web. Este projeto marca a minha primeira tentativa de replicar uma página web do zero, sem ajuda direta, e eu gostaria de compartilhar o processo com você.  
+Muito prazer, meu nome é Mário Miguel, e estou em minha jornada como aspirante a Desenvolvedor Web. Este projeto marca a minha primeira tentativa de replicar uma página web do zero, sem ajuda direta, e  gostaria de compartilhar o processo com você.  
 Escrevo este README como uma espécie de diário técnico, contando sobre o que aprendi, revisei e os desafios que enfrentei ao longo do caminho. Este desafio faz parte do módulo __*"Exercícios CSS Avançado (Flexbox)"*__ do curso __DevQuest__ da *Dev em Dobro*.
 
 ## __Explicação do Projeto__
