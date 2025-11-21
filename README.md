@@ -24,9 +24,6 @@ Este é um projeto simples e responsivo, cujo foco é a criação de um cartão 
 
 A ideia principal desta aplicação é exibir essas informações de forma clara e profissional. O layout é relativamente simples. Você pode visualizar o design na GIF que anexei abaixo.
 
-  <div>
-  <img src="./src/images/gif_readme_endresult.gif" alt="Gif do resultado final da página" width="100%">
-</div>
 
 ## __Linguagens Utilizadas__
 <div style="display: inline_block"><br>
