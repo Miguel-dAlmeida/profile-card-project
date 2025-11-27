@@ -25,7 +25,7 @@ Este é um projeto simples e responsivo, cujo foco é a criação de um cartão 
 A ideia principal desta aplicação é exibir essas informações de forma clara e profissional. O layout é relativamente simples. Você pode visualizar o design na GIF que anexei abaixo.
 
   <div>
-  <img src="./src/images/gif_readme_endresult.gif" alt="Gif do resultado final da página" width="100%">
+  <img src="https://raw.githubusercontent.com/Miguel-dAlmeida/profile-card-project/refs/heads/main/src/images/gif_readme_endresult.gif" alt="Gif do resultado final da página" width="100%">
 </div>
 
 ## __Linguagens Utilizadas__
@@ -59,5 +59,5 @@ Se você chegou até aqui, agradeço por dedicar seu tempo para conhecer o meu d
   </div>
 
 <div>
-  <img src="https://i.imgur.com/kwfpJJn.gif" alt="Gif do resultado final da página" width="100%">
+  <img src="https://raw.githubusercontent.com/Miguel-dAlmeida/profile-card-project/main/src/images/closingImage.gif" alt="Gif do resultado final da página" width="100%">
 </div>
